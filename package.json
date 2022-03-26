@@ -1,0 +1,14 @@
+{
+  "name": "edu-node-timezones",
+  "version": "1.0.0",
+  "description": "Educational project for node timezones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sbszc",
+  "license": "ISC",
+  "dependencies": {
+    "moment-timezone": "^0.5.34"
+  }
+}
